@@ -1,11 +1,7 @@
 <a name="readme-top"></a>
 
 <div align="center">
-  <!-- You are encouraged to replace this logo with your own! Otherwise you can also remove it. -->
-  <img src="murple_logo.png" alt="logo" width="140"  height="auto" />
-  <br/>
-
-  <h3><b>Hello Microverse</b></h3>
+  <h3><b>**Hello Microverse**</b></h3>
 
 </div>
 
@@ -37,46 +33,41 @@
 
 # 📖 [Hello World] <a name="about-project"></a>
 
-> Describe your project in 1 or 2 sentences.
-
-**[Hello World]** is a...
+>**[Hello World]** is the first project I made by applying HTML concepts after my previous lesson.
 
 ## 🛠 Built With <a name="built-with"></a>
 
 ### Tech Stack <a name="tech-stack"></a>
 
-> Describe the tech stack and include only the relevant sections that apply to your project.
+
 
 <details>
-  <summary>Client</summary>
+  <summary>HTML</summary>
   <ul>
-    <li><a href="https://reactjs.org/">React.js</a></li>
+    <li><a href="https://youtu.be/kUMe1FH4CHE">Learn HTML</a></li>
   </ul>
 </details>
 
 <details>
-  <summary>Server</summary>
+  <summary>Linters(workflow)</summary>
   <ul>
-    <li><a href="https://expressjs.com/">Express.js</a></li>
+    <li><a href="https://youtu.be/HDQXWr5TOnI">Save your code time with linters!</a></li>
   </ul>
 </details>
 
 <details>
-<summary>Database</summary>
+<summary>CSS</summary>
   <ul>
-    <li><a href="https://www.postgresql.org/">PostgreSQL</a></li>
+    <li><a href="https://youtu.be/1Rs2ND1ryYc">Learn CSS</a></li>
   </ul>
 </details>
 
-<!-- Features -->
 
 ### Key Features <a name="key-features"></a>
 
-> Describe between 1-3 key features of the application.
 
-- **[key_feature_1]**
-- **[key_feature_2]**
-- **[key_feature_3]**
+- **[To add a text in HTML using h1 tag, in this case a 'Hello Microverse!']**
+- **[Applying linters to see practically how it flags stylistic errors and unwanted constructs]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -188,9 +179,9 @@ Example:
 
 👤 **Author2**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- GitHub: [@kgomotso196](https://github.com/Kgomotso196)
+- Twitter: [@t_r_o_o_s](https://twitter.com/t_r_o_o_s)
+- LinkedIn: [Kgomotso Nacane](https://www.linkedin.com/in/kgomotso-nacane-4909ba259/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
