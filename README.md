@@ -60,7 +60,7 @@
 
 
 - **[To add a text in HTML using h1 tag, in this case a 'Hello Microverse!']**
-- **[Applying linters to see practically how it flags stylistic errors and unwanted constructs]**
+- **[Applying linters to see practically how they flag stylistic errors and unwanted constructs]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -100,9 +100,9 @@ Install this project with:
 ### Run tests
 
 To run tests, run the following command:
--npx hint .
--npx stylelint "\*_/_.{css,scss}"
--You will see my printed "Hello Microverse!" in blue if you copy the path of index.html to your online server.
+- npx hint .
+- npx stylelint "\*_/_.{css,scss}"
+- You will see my printed "Hello Microverse!" in blue if you copy the path of index.html to your online server.
 
 ## 👥 Authors <a name="authors"></a>
 
@@ -111,7 +111,7 @@ To run tests, run the following command:
 - GitHub: [@kgomotso196](https://github.com/Kgomotso196)
 - Twitter: [@t_r_o_o_s](https://twitter.com/t_r_o_o_s)
 - LinkedIn: [Kgomotso Nacane](https://www.linkedin.com/in/kgomotso-nacane-4909ba259/)
--Slack: [@Kgomotso Nacane](https://app.slack.com/client/T47CT8XPG/D04PLARKJSZ/rimeto_profile/U04H94E2UF9)
+- Slack: [@Kgomotso Nacane](https://app.slack.com/client/T47CT8XPG/D04PLARKJSZ/rimeto_profile/U04H94E2UF9)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
